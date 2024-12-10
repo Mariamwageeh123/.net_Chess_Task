@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MMqdeBrQ0NYeRt9SIG/qpUxGqBSB4MGAUIHktW9T2fw=",
+  "Source": "Chess",
+  "BasePath": "_content/Chess",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

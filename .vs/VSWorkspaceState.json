@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Chess",
+    "\\Chess\\Controllers",
+    "\\Chess\\DBConnection",
+    "\\Chess\\Dtos",
+    "\\Chess\\Migrations",
+    "\\Chess\\Models",
+    "\\Chess\\Properties",
+    "\\Chess\\Services"
+  ],
+  "SelectedNode": "\\Chess\\Controllers\\ParticipantsController.cs",
+  "PreviewInSolutionExplorer": false
+}

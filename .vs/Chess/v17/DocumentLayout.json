@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\firstd-master\\firstd-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dtos\\leaguenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dtos\\leaguenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dtos\\addleageudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dtos\\addleageudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dtos\\leaguedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dtos\\leaguedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\models\\congratulationmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\models\\congratulationmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\models\\leagueparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\models\\leagueparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\chess.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\chess.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Matches.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.LeagueParticipants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Leagues.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Participants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205835_init_Dbgg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205810_init_Dbgg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205622_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205420_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205324_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dtos\\addparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dtos\\addparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\firstd-master\\firstd-master\\Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dtos\\leagueparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dtos\\leagueparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181327_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181214_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210180719_init_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\dbconnection\\chessleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\dbconnection\\chessleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|d:\\firstd-master\\firstd-master\\chess\\migrations\\20241210205846_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9C00F6-406E-4263-A8A3-B589260D21D9}|Chess\\Chess.csproj|solutionrelative:chess\\migrations\\20241210205846_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeagueNameDto.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueNameDto.cs",
+              "RelativeDocumentMoniker": "Chess\\Dtos\\LeagueNameDto.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueNameDto.cs",
+              "RelativeToolTip": "Chess\\Dtos\\LeagueNameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:19:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaguesController.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\LeaguesController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\LeaguesController.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\LeaguesController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\LeaguesController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwG4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:58:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\MatchesController.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:57:48.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwHsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:57:08.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Chess\\Services\\EmailService.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Services\\EmailService.cs",
+              "RelativeToolTip": "Chess\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:56:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddLeageuDto.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\AddLeageuDto.cs",
+              "RelativeDocumentMoniker": "Chess\\Dtos\\AddLeageuDto.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\AddLeageuDto.cs",
+              "RelativeToolTip": "Chess\\Dtos\\AddLeageuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:41:40.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeagueDto.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueDto.cs",
+              "RelativeDocumentMoniker": "Chess\\Dtos\\LeagueDto.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueDto.cs",
+              "RelativeToolTip": "Chess\\Dtos\\LeagueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:32:17.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CongratulationMail.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Models\\CongratulationMail.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\CongratulationMail.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Models\\CongratulationMail.cs",
+              "RelativeToolTip": "Chess\\Models\\CongratulationMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:54:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Participant.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Models\\Participant.cs",
+              "RelativeToolTip": "Chess\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:52:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Match.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Models\\Match.cs",
+              "RelativeToolTip": "Chess\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:52:56.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeagueParticipant.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Models\\LeagueParticipant.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\LeagueParticipant.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Models\\LeagueParticipant.cs",
+              "RelativeToolTip": "Chess\\Models\\LeagueParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:54:02.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "League.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Models\\League.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\League.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Models\\League.cs",
+              "RelativeToolTip": "Chess\\Models\\League.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:53:35.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Chess\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Chess\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T21:43:45.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\appsettings.json",
+              "RelativeDocumentMoniker": "Chess\\appsettings.json",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\appsettings.json",
+              "RelativeToolTip": "Chess\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T10:23:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chess.http",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Chess.http",
+              "RelativeDocumentMoniker": "Chess\\Chess.http",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Chess.http",
+              "RelativeToolTip": "Chess\\Chess.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-10T21:40:38.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Program.cs",
+              "RelativeDocumentMoniker": "Chess\\Program.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Program.cs",
+              "RelativeToolTip": "Chess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:02:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.LeagueParticipants.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.LeagueParticipants.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.LeagueParticipants.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T18:19:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Matches.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Matches.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Matches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T18:19:07.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Participants.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Participants.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Participants.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T18:19:08.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241210205846_init_Db.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Migrations\\20241210205846_init_Db.cs",
+              "RelativeDocumentMoniker": "Chess\\Migrations\\20241210205846_init_Db.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Migrations\\20241210205846_init_Db.cs",
+              "RelativeToolTip": "Chess\\Migrations\\20241210205846_init_Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:46.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Leagues.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Leagues.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ChessDb/True/SqlTable/dbo.Leagues.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T21:03:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241210205324_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205324_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205324_init_Db.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:53:24.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241210205420_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205420_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205420_init_Db.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:54:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241210205622_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205622_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205622_init_Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:56:22.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241210205810_init_Dbgg.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205810_init_Dbgg.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205810_init_Dbgg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:10.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241210205835_init_Dbgg.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205835_init_Dbgg.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210205835_init_Dbgg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddParticipantDto.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\AddParticipantDto.cs",
+              "RelativeDocumentMoniker": "Chess\\Dtos\\AddParticipantDto.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\AddParticipantDto.cs",
+              "RelativeToolTip": "Chess\\Dtos\\AddParticipantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:56:30.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Chess.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs",
+              "RelativeToolTip": "Chess\\obj\\Debug\\net8.0\\Chess.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:56:28.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:35:29.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeagueParticipantDto.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueParticipantDto.cs",
+              "RelativeDocumentMoniker": "Chess\\Dtos\\LeagueParticipantDto.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\Dtos\\LeagueParticipantDto.cs",
+              "RelativeToolTip": "Chess\\Dtos\\LeagueParticipantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:32:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241210181214_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181214_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181214_init_Db.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:12:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241210181327_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181327_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210181327_init_Db.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwIYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:13:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241210180719_init_Db.cs",
+              "DocumentMoniker": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210180719_init_Db.cs",
+              "ToolTip": "C:\\Users\\M4_ElShenawy\\Desktop\\firstd-master\\Chess\\Migrations\\20241210180719_init_Db.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:07:19.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChessLeagueContext.cs",
+              "DocumentMoniker": "D:\\firstd-master\\firstd-master\\Chess\\DBConnection\\ChessLeagueContext.cs",
+              "RelativeDocumentMoniker": "Chess\\DBConnection\\ChessLeagueContext.cs",
+              "ToolTip": "D:\\firstd-master\\firstd-master\\Chess\\DBConnection\\ChessLeagueContext.cs",
+              "RelativeToolTip": "Chess\\DBConnection\\ChessLeagueContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:56:18.566Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
